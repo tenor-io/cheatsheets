@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# npm related
+node_modules
+
+# build
+dist
